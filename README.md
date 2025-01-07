@@ -1,6 +1,7 @@
 wkhtmltopdf
 ================
 
+## 0.12.6
 This repository contains the static compiled binaries from the [wkhtmltopdf project](http://wkhtmltopdf.org/).
 More about the functionality of wkhtmltopdf and wkthmltoimage can be found there.
 
